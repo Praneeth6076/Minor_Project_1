@@ -5,7 +5,7 @@ This is my first weekly project which includes the basic python techniques and N
 1) Numpy
 2) if-elif-else
 3) loops
-4) ffnction
+4) functions
 5) operators
    
 Author,
