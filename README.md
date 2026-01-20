@@ -1,7 +1,7 @@
 # **Weekly Project**
 This is my first weekly project which includes the basic python techniques and Numpy. I have made it to improve my coding skills and learn how to make further improvements.
 
-# * Tech stack *
+# *Tech Stack*
 1) Numpy
 2) if-elif-else
 3) loops
